@@ -98,3 +98,11 @@ su tama&ntilde;o al agregarles margin y padding.
 ## Ejemplo completo
 
 ![box-model](ejemplo.png)
+
+### Box Model
+
+Para entender el funcionamiento de margin
+y padding en la parte inferior derecha 
+tienes una cajita de colores, ahi puedes 
+ver que area afecta cada una de estas 
+propiedades.
