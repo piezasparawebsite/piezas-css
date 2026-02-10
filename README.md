@@ -18,6 +18,10 @@ tan sencillo como :
 
 `<div class="linea-dorada"></div>`
 
+### resultado:
+
+![linea-dorada](linea-dorada.png)
+
 ## Recuerda
 
 Para que esa clase (class|selector) funcione
