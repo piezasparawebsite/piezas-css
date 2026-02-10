@@ -88,3 +88,9 @@ una tipografia (font-family) , una altura inicial
 puedes cambiar el color inicial , colocando
 el nombre de la variable definida en :root
 dentro de la funcion var();
+
+el selector * (universal) esta indicando
+que todos los elementos del documento 
+inician con un margen de 0 y un padding de 0
+y la propiedad box-sizing para que mantengan
+su tama&ntilde;o al agregarles margin y padding.
